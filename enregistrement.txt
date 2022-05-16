@@ -1,0 +1,14 @@
+﻿
+
+Nom : Lmnjaoui
+Prenom : Sanae
+Age : 21 ans
+Numéro Téléphone : 0623723224
+Email : sanae.lmnjaoui@etu.uae.ac.ma
+Filière : GI
+Année : 2 eme eme annee
+Modules Suivies : ["Compilation","Reseau av","Web avancee"]
+Clubs : ["Programmation avancee"]
+Remarques : 
+Fichier : ./upload/logo_Ensate.png 
+------------------------------ 
